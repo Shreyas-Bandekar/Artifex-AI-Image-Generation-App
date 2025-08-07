@@ -1,6 +1,6 @@
-# 🧠 PixelMind – AI Image Generation App (MERN Stack)
+# 🧠 Artifex – AI Image Generation App (MERN Stack)
 
-PixelMind is a full-stack AI-powered image generation app built using the MERN stack (MongoDB, Express, React, Node.js) and integrated with a machine learning API to generate unique images from user prompts.
+Artifex is a full-stack AI-powered image generation app built using the MERN stack (MongoDB, Express, React, Node.js) and integrated with a machine learning API to generate unique images from user prompts.
 
 ---
 
